@@ -1,8 +1,3 @@
-### Desafio TypeScript - DIO
-# Com o intuito de absorver os conteúdos de typescript e javascript, foi feito o projeto com auxílio das aulas para um melhor entendimento das ferramentas.
-
-
-
 # Aula de Typescript da Take na plataforma DIO
   
 *Bem vindo!!*
